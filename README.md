@@ -78,5 +78,7 @@ terraform destroy
 ```
 
 Done:
+
+
 <img width="776" height="595" alt="image" src="https://github.com/user-attachments/assets/d522f792-93e4-4b4d-9afb-0872eefadabe" />
 
