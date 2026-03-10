@@ -1,4 +1,4 @@
-# terra-vm
+# Terra-vm
 
 Terraform lab to deploy an Azure Linux VM with:
 - Public IP
