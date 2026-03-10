@@ -1,3 +1,20 @@
+# Terra Function
+Base code taken from: https://github.com/ChristianFlor/azfunction-tf/tree/main
+
+After aplying:
+
+```powershell
+terraform init
+terraform plan
+terraform apply
+```
+
+We obtain the following resources in azure portal:
+
+<img width="1741" height="721" alt="image" src="https://github.com/user-attachments/assets/2d0e0124-e8d6-4119-b402-7aa530a55f13" />
+
+
+
 # Terra-vm
 
 Terraform lab to deploy an Azure Linux VM with:
@@ -82,3 +99,4 @@ Done:
 
 <img width="776" height="595" alt="image" src="https://github.com/user-attachments/assets/d522f792-93e4-4b4d-9afb-0872eefadabe" />
 
+# 
